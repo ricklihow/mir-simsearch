@@ -1,0 +1,7 @@
+numpy
+pandas
+tqdm
+torch
+torchaudio
+faiss-cpu
+scikit-learn
